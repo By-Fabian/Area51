@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Area51.dir/main.cpp.o  -o Area51 
