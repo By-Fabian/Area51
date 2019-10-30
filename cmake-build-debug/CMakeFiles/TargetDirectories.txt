@@ -1,3 +1,3 @@
-/home/utec/Proyectos/Area51/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/utec/Proyectos/Area51/cmake-build-debug/CMakeFiles/Area51.dir
-/home/utec/Proyectos/Area51/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jean Pierre/CLionProjects/Area51/cmake-build-debug/CMakeFiles/Area51.dir
+C:/Users/Jean Pierre/CLionProjects/Area51/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jean Pierre/CLionProjects/Area51/cmake-build-debug/CMakeFiles/rebuild_cache.dir
