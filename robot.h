@@ -5,6 +5,9 @@
 #ifndef AREA51_ROBOT_H
 #define AREA51_ROBOT_H
 
+#include "includes.h"
+#include "typedef.h"
+
 #endif //AREA51_ROBOT_H
 
 lass C_Robots
