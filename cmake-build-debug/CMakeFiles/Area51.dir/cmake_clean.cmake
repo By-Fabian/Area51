@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "Area51"
+  "Area51.exe"
+  "Area51.exe.manifest"
+  "Area51.lib"
   "Area51.pdb"
-  "CMakeFiles/Area51.dir/main.cpp.o"
+  "CMakeFiles/Area51.dir/main.cpp.obj"
 )
 
 # Per-language clean rules from dependency scanning.
